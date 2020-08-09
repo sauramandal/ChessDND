@@ -2,6 +2,7 @@
   "name": "react-dnd-example-1",
   "main": "src/index.tsx",
   "description": "auto-generated package for codesandbox import",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "private": true,
   "version": "0.0.0",
   "scripts": {
